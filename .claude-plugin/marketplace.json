@@ -1,0 +1,17 @@
+{
+  "name": "token-lean",
+  "description": "Single-plugin marketplace for token-lean: all-in-one token optimization for Claude Code and other coding agents.",
+  "owner": {
+    "name": "Eswara",
+    "url": "https://github.com/EswarSk"
+  },
+  "plugins": [
+    {
+      "name": "token-lean",
+      "source": "./",
+      "description": "All-in-one token optimization: terse output, minimal-code decision ladder, context hygiene, a cheap exploration subagent, plus hooks that block redundant reads and rewrite verbose commands.",
+      "version": "0.2.0",
+      "keywords": ["tokens", "cost", "context", "efficiency", "optimization", "codex", "agents"]
+    }
+  ]
+}

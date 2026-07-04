@@ -1,0 +1,12 @@
+{
+  "name": "token-lean",
+  "version": "0.2.0",
+  "description": "All-in-one token optimization: terse output, minimal-code decision ladder, context hygiene, a cheap exploration subagent, plus hooks that block redundant reads and rewrite verbose commands. Portable rules included for Codex and other agents.",
+  "author": {
+    "name": "Eswara"
+  },
+  "homepage": "https://github.com/EswarSk/token-lean",
+  "repository": "https://github.com/EswarSk/token-lean",
+  "license": "MIT",
+  "keywords": ["tokens", "cost", "context", "efficiency", "optimization", "codex", "agents"]
+}
